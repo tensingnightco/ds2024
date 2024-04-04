@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Hồ Công Thành
 * Student ID: BI12-409
-* Student Group ID: Not-for-now
+* Student Group ID: 18
